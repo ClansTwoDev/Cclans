@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OqNEBf8+i2wPCAlEOmhWWq2ZRlt/Z6HQ15SDo8oM0L3sylMABtco4/o/OD79cA2X4CiepeBi5fTWYINJlHrT9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tomma\\Desktop\\Nuova cartella (2)\\CClans v2\\CClans v2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tomma\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\tomma\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.1\\microsoft.netcore.app.runtime.win-x64.8.0.1.nupkg.sha512",
+    "C:\\Users\\tomma\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.1\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.1.nupkg.sha512",
+    "C:\\Users\\tomma\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.1\\microsoft.aspnetcore.app.runtime.win-x64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

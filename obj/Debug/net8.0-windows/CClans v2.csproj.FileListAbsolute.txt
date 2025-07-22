@@ -1,0 +1,15 @@
+C:\Users\tomma\Desktop\Nuova cartella (2)\CClans v2\bin\Debug\net8.0-windows\CClans v2.exe
+C:\Users\tomma\Desktop\Nuova cartella (2)\CClans v2\bin\Debug\net8.0-windows\CClans v2.deps.json
+C:\Users\tomma\Desktop\Nuova cartella (2)\CClans v2\bin\Debug\net8.0-windows\CClans v2.runtimeconfig.json
+C:\Users\tomma\Desktop\Nuova cartella (2)\CClans v2\bin\Debug\net8.0-windows\CClans v2.dll
+C:\Users\tomma\Desktop\Nuova cartella (2)\CClans v2\obj\Debug\net8.0-windows\CClans_v2.Form1.resources
+C:\Users\tomma\Desktop\Nuova cartella (2)\CClans v2\obj\Debug\net8.0-windows\CClans v2.csproj.GenerateResource.cache
+C:\Users\tomma\Desktop\Nuova cartella (2)\CClans v2\obj\Debug\net8.0-windows\CClans v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomma\Desktop\Nuova cartella (2)\CClans v2\obj\Debug\net8.0-windows\CClans v2.AssemblyInfoInputs.cache
+C:\Users\tomma\Desktop\Nuova cartella (2)\CClans v2\obj\Debug\net8.0-windows\CClans v2.AssemblyInfo.cs
+C:\Users\tomma\Desktop\Nuova cartella (2)\CClans v2\obj\Debug\net8.0-windows\CClans v2.csproj.CoreCompileInputs.cache
+C:\Users\tomma\Desktop\Nuova cartella (2)\CClans v2\obj\Debug\net8.0-windows\CClans v2.dll
+C:\Users\tomma\Desktop\Nuova cartella (2)\CClans v2\obj\Debug\net8.0-windows\refint\CClans v2.dll
+C:\Users\tomma\Desktop\Nuova cartella (2)\CClans v2\obj\Debug\net8.0-windows\CClans v2.genruntimeconfig.cache
+C:\Users\tomma\Desktop\Nuova cartella (2)\CClans v2\obj\Debug\net8.0-windows\ref\CClans v2.dll
+C:\Users\tomma\Desktop\Nuova cartella (2)\CClans v2\obj\Debug\net8.0-windows\CClans_v3.Properties.Resources.resources

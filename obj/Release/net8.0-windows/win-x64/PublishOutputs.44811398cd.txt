@@ -1,0 +1,6 @@
+C:\Users\tomma\Desktop\CClans v2\D3DCompiler_47_cor3.dll
+C:\Users\tomma\Desktop\CClans v2\PenImc_cor3.dll
+C:\Users\tomma\Desktop\CClans v2\PresentationNative_cor3.dll
+C:\Users\tomma\Desktop\CClans v2\vcruntime140_cor3.dll
+C:\Users\tomma\Desktop\CClans v2\wpfgfx_cor3.dll
+C:\Users\tomma\Desktop\CClans v2\CClans v2.exe
